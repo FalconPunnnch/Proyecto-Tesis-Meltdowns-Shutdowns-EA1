@@ -6,7 +6,40 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Menu.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/LimpiarPantalla.unity
+    guid: 84af74b6df2eef640b3fa916b98fefa3
+  - enabled: 1
+    path: Assets/Scenes/InflarGlobo.unity
+    guid: a2bf6da1460f25744806dba9416d410c
+  - enabled: 1
+    path: Assets/Scenes/RegarPlantitas.unity
+    guid: fe942d5615768294fbe30f5fe2f797b0
+  - enabled: 1
+    path: Assets/Scenes/Grounding54321.unity
+    guid: 5725724315c2e2448b092ed1120b1697
+  - enabled: 1
+    path: Assets/Scenes/MareaInterior.unity
+    guid: 0f83ad4a3bd90de45882e9c79b497d5f
+  - enabled: 1
+    path: "Assets/Scenes/Peque\xF1osFaros.unity"
+    guid: 8aa6284e4ce13d44fba161ece9769960
+  - enabled: 1
+    path: Assets/Scenes/Constelacion.unity
+    guid: efc9843f0e498204db0533ef6958e812
+  - enabled: 1
+    path: Assets/Scenes/Globito.unity
+    guid: fdec4ba7a9a0388449c10fd9eca0d35c
+  - enabled: 1
+    path: Assets/Scenes/Nubecita.unity
+    guid: 48b83846cd9ef024c820967ab68fc193
+  - enabled: 1
+    path: Assets/Scenes/Arbol.unity
+    guid: 71da36cebe59bd9498d06fce8b2e0454
+  - enabled: 1
+    path: Assets/Scenes/PantallaAdmin.unity
+    guid: 441b9b9c84d02be48845374e20d7ec01
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: fbf2aa0ba2b0a8d448f021d580034a49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3833304628356547129
+    second: Maceta pixelada con flor_0
+  - first:
+      213: -3207018863503114434
+    second: Maceta pixelada con flor_1
+  - first:
+      213: -6353215207103430896
+    second: Maceta pixelada con flor_2
+  - first:
+      213: -6684426151381473733
+    second: Maceta pixelada con flor_3
+  - first:
+      213: 1339754861795041022
+    second: Maceta pixelada con flor_4
+  - first:
+      213: -4745363071731253432
+    second: Maceta pixelada con flor_5
+  - first:
+      213: -2789594448210228046
+    second: Maceta pixelada con flor_6
+  - first:
+      213: 6858796574608891368
+    second: Maceta pixelada con flor_7
+  - first:
+      213: 4676390819834611411
+    second: Maceta pixelada con flor_8
+  - first:
+      213: -5112575871519279270
+    second: Maceta pixelada con flor_9
+  - first:
+      213: -7819852216306473877
+    second: Maceta pixelada con flor_10
+  - first:
+      213: -5011158854064709655
+    second: Maceta pixelada con flor_11
+  - first:
+      213: -4796640850371833088
+    second: Maceta pixelada con flor_12
+  - first:
+      213: -4024948944730378916
+    second: Maceta pixelada con flor_13
+  - first:
+      213: 1220596731379577102
+    second: Maceta pixelada con flor_14
+  - first:
+      213: 8597607545108926674
+    second: Maceta pixelada con flor_15
+  - first:
+      213: -4326355560988742452
+    second: Maceta pixelada con flor_16
+  - first:
+      213: -977617912860341127
+    second: Maceta pixelada con flor_17
+  - first:
+      213: 4486586762036141454
+    second: Maceta pixelada con flor_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 25
+        width: 1185
+        height: 1150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9328d01ff32a23530800000000000000
+      internalID: 3833304628356547129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1173
+        width: 95
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f7becc5516e73d0800000000000000
+      internalID: -3207018863503114434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_2
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1014
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f7dfe0e68d4d7a0800000000000000
+      internalID: -6353215207103430896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 916
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b366397b4d52c33a0800000000000000
+      internalID: -6684426151381473733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 900
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe556fc2f3c79210800000000000000
+      internalID: 1339754861795041022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 755
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fb333ad65152eb0800000000000000
+      internalID: -4745363071731253432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 757
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc070711ae5949d0800000000000000
+      internalID: -2789594448210228046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_7
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 746
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed9a3825275f2f50800000000000000
+      internalID: 6858796574608891368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_8
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 746
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6c32f8ca0e5e040800000000000000
+      internalID: 4676390819834611411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_9
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 744
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a573cda155b7c09b0800000000000000
+      internalID: -5112575871519279270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_10
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 684
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64600337dd4a7390800000000000000
+      internalID: -7819852216306473877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_11
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 692
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef5b6e8299c47ab0800000000000000
+      internalID: -5011158854064709655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_12
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 644
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003957e6f88ee6db0800000000000000
+      internalID: -4796640850371833088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_13
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 634
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d234682428428c0800000000000000
+      internalID: -4024948944730378916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_14
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 618
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01f1eb924e60f010800000000000000
+      internalID: 1220596731379577102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_15
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 586
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d09f6c9286d05770800000000000000
+      internalID: 8597607545108926674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_16
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 560
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccea3f0a82b5f3c0800000000000000
+      internalID: -4326355560988742452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_17
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 580
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c86e910bdce62f0800000000000000
+      internalID: -977617912860341127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maceta pixelada con flor_18
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 586
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d522d93ee834e30800000000000000
+      internalID: 4486586762036141454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maceta pixelada con flor_0: 3833304628356547129
+      Maceta pixelada con flor_1: -3207018863503114434
+      Maceta pixelada con flor_10: -7819852216306473877
+      Maceta pixelada con flor_11: -5011158854064709655
+      Maceta pixelada con flor_12: -4796640850371833088
+      Maceta pixelada con flor_13: -4024948944730378916
+      Maceta pixelada con flor_14: 1220596731379577102
+      Maceta pixelada con flor_15: 8597607545108926674
+      Maceta pixelada con flor_16: -4326355560988742452
+      Maceta pixelada con flor_17: -977617912860341127
+      Maceta pixelada con flor_18: 4486586762036141454
+      Maceta pixelada con flor_2: -6353215207103430896
+      Maceta pixelada con flor_3: -6684426151381473733
+      Maceta pixelada con flor_4: 1339754861795041022
+      Maceta pixelada con flor_5: -4745363071731253432
+      Maceta pixelada con flor_6: -2789594448210228046
+      Maceta pixelada con flor_7: 6858796574608891368
+      Maceta pixelada con flor_8: 4676390819834611411
+      Maceta pixelada con flor_9: -5112575871519279270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

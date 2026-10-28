@@ -1,0 +1,1107 @@
+fileFormatVersion: 2
+guid: 030643c68c6558341b1b875bb7e9fdb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2817626823108351527
+    second: marea interior icon_0
+  - first:
+      213: -2118506475677935595
+    second: marea interior icon_1
+  - first:
+      213: -8291281890120498618
+    second: marea interior icon_2
+  - first:
+      213: 4519838906699196591
+    second: marea interior icon_3
+  - first:
+      213: -2383913722879004268
+    second: marea interior icon_4
+  - first:
+      213: -7937566670018543962
+    second: marea interior icon_5
+  - first:
+      213: 632067700460506958
+    second: marea interior icon_6
+  - first:
+      213: -2503791602754242829
+    second: marea interior icon_7
+  - first:
+      213: -726055052225654730
+    second: marea interior icon_8
+  - first:
+      213: 732603700967512631
+    second: marea interior icon_9
+  - first:
+      213: -1441420903762655217
+    second: marea interior icon_10
+  - first:
+      213: -6206665701140558332
+    second: marea interior icon_11
+  - first:
+      213: 4413372942152269701
+    second: marea interior icon_12
+  - first:
+      213: 1568329295280636017
+    second: marea interior icon_13
+  - first:
+      213: -2992980115400586233
+    second: marea interior icon_14
+  - first:
+      213: 4498992302887774170
+    second: marea interior icon_15
+  - first:
+      213: -1343208474812009749
+    second: marea interior icon_16
+  - first:
+      213: -4909706317061205441
+    second: marea interior icon_17
+  - first:
+      213: -3478000045377666907
+    second: marea interior icon_18
+  - first:
+      213: 5655306997378834703
+    second: marea interior icon_19
+  - first:
+      213: -19362194447111453
+    second: marea interior icon_20
+  - first:
+      213: -1164206133442002992
+    second: marea interior icon_21
+  - first:
+      213: -3774399004063909499
+    second: marea interior icon_22
+  - first:
+      213: 7514064575935945799
+    second: marea interior icon_23
+  - first:
+      213: -6702385211322458885
+    second: marea interior icon_24
+  - first:
+      213: -9129248326306391188
+    second: marea interior icon_25
+  - first:
+      213: 7695903141819215797
+    second: marea interior icon_26
+  - first:
+      213: -2229401894637022106
+    second: marea interior icon_27
+  - first:
+      213: -1570928409866989425
+    second: marea interior icon_28
+  - first:
+      213: -2560655182558136906
+    second: marea interior icon_29
+  - first:
+      213: 7389581029027127796
+    second: marea interior icon_30
+  - first:
+      213: -8200697510299934932
+    second: marea interior icon_31
+  - first:
+      213: -2272588109292123609
+    second: marea interior icon_32
+  - first:
+      213: 536244883967441023
+    second: marea interior icon_33
+  - first:
+      213: 5630454788457050971
+    second: marea interior icon_34
+  - first:
+      213: -1621999071187523246
+    second: marea interior icon_35
+  - first:
+      213: 8327509531791934813
+    second: marea interior icon_36
+  - first:
+      213: 2857357902560860959
+    second: marea interior icon_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marea interior icon_0
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1205
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7265cfccaa83a1720800000000000000
+      internalID: 2817626823108351527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_1
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1103
+        width: 162
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5181adea59d8992e0800000000000000
+      internalID: -2118506475677935595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1100
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6420dbecc037fec80800000000000000
+      internalID: -8291281890120498618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1164
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8abcbd981b9be30800000000000000
+      internalID: 4519838906699196591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1100
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4913e9c7913aaeed0800000000000000
+      internalID: -2383913722879004268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1168
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae709c2b2918d190800000000000000
+      internalID: -7937566670018543962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_6
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1173
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f42f7893e85c800800000000000000
+      internalID: 632067700460506958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_7
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1174
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f63a3e8dceb04dd0800000000000000
+      internalID: -2503791602754242829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_8
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1153
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63056bcd6c88ce5f0800000000000000
+      internalID: -726055052225654730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_9
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1139
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a1e4d3f2bba2a00800000000000000
+      internalID: 732603700967512631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1131
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f088763335b0ffbe0800000000000000
+      internalID: -1441420903762655217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1124
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e8aebdd6e7dd9a0800000000000000
+      internalID: -6206665701140558332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_12
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1124
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f7e4ece437f3d30800000000000000
+      internalID: 4413372942152269701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_13
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1112
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1708a084f23d3c510800000000000000
+      internalID: 1568329295280636017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_14
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1140
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c8db9417cc676d0800000000000000
+      internalID: -2992980115400586233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_15
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1136
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7a7dca9a1af6e30800000000000000
+      internalID: 4498992302887774170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_16
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1140
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2398f3207fb5de0800000000000000
+      internalID: -1343208474812009749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_17
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1108
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32531c0e183ddbb0800000000000000
+      internalID: -4909706317061205441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_18
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1115
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0c87ec269abbfc0800000000000000
+      internalID: -3478000045377666907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_19
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1091
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01eb8240cfab7e40800000000000000
+      internalID: 5655306997378834703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_20
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1092
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea68edcf263bbff0800000000000000
+      internalID: -19362194447111453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1241
+        height: 1105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfbbda90b8e7dfe0800000000000000
+      internalID: -1164206133442002992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_22
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1084
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589be2a7a14ae9bc0800000000000000
+      internalID: -3774399004063909499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_23
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1094
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c120cabe1574860800000000000000
+      internalID: 7514064575935945799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_24
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1068
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc1b4b39285cf2a0800000000000000
+      internalID: -6702385211322458885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_25
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1006
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b9d2c14056e4180800000000000000
+      internalID: -9129248326306391188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_26
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 918
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf62f102275dca60800000000000000
+      internalID: 7695903141819215797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_27
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 869
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664d398e9c29f01e0800000000000000
+      internalID: -2229401894637022106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_28
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f801f423fe0f23ae0800000000000000
+      internalID: -1570928409866989425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_29
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 111
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5fb5bada9b67cd0800000000000000
+      internalID: -2560655182558136906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_30
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 93
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1a0225bc01d8660800000000000000
+      internalID: 7389581029027127796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_31
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 37
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f54244015413e80800000000000000
+      internalID: -8200697510299934932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_32
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 13
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72acdd0c7252670e0800000000000000
+      internalID: -2272588109292123609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_33
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78ff7d71ef117700800000000000000
+      internalID: 536244883967441023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_34
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 20
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5331e57cc4632e40800000000000000
+      internalID: 5630454788457050971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_35
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 20
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259aadf30708d79e0800000000000000
+      internalID: -1621999071187523246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_36
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 23
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5543225cc1419370800000000000000
+      internalID: 8327509531791934813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marea interior icon_37
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 0
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b9b4a9fdf57a720800000000000000
+      internalID: 2857357902560860959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      marea interior icon_0: 2817626823108351527
+      marea interior icon_1: -2118506475677935595
+      marea interior icon_10: -1441420903762655217
+      marea interior icon_11: -6206665701140558332
+      marea interior icon_12: 4413372942152269701
+      marea interior icon_13: 1568329295280636017
+      marea interior icon_14: -2992980115400586233
+      marea interior icon_15: 4498992302887774170
+      marea interior icon_16: -1343208474812009749
+      marea interior icon_17: -4909706317061205441
+      marea interior icon_18: -3478000045377666907
+      marea interior icon_19: 5655306997378834703
+      marea interior icon_2: -8291281890120498618
+      marea interior icon_20: -19362194447111453
+      marea interior icon_21: -1164206133442002992
+      marea interior icon_22: -3774399004063909499
+      marea interior icon_23: 7514064575935945799
+      marea interior icon_24: -6702385211322458885
+      marea interior icon_25: -9129248326306391188
+      marea interior icon_26: 7695903141819215797
+      marea interior icon_27: -2229401894637022106
+      marea interior icon_28: -1570928409866989425
+      marea interior icon_29: -2560655182558136906
+      marea interior icon_3: 4519838906699196591
+      marea interior icon_30: 7389581029027127796
+      marea interior icon_31: -8200697510299934932
+      marea interior icon_32: -2272588109292123609
+      marea interior icon_33: 536244883967441023
+      marea interior icon_34: 5630454788457050971
+      marea interior icon_35: -1621999071187523246
+      marea interior icon_36: 8327509531791934813
+      marea interior icon_37: 2857357902560860959
+      marea interior icon_4: -2383913722879004268
+      marea interior icon_5: -7937566670018543962
+      marea interior icon_6: 632067700460506958
+      marea interior icon_7: -2503791602754242829
+      marea interior icon_8: -726055052225654730
+      marea interior icon_9: 732603700967512631
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

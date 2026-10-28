@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: dfc4bbc357cb740458191c7eac38facb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2721014544415780471
+    second: Regadera azul pixelada con margaritas_0
+  - first:
+      213: 8090855348855016057
+    second: Regadera azul pixelada con margaritas_1
+  - first:
+      213: -9106468530934307073
+    second: Regadera azul pixelada con margaritas_2
+  - first:
+      213: -6197618612433574680
+    second: Regadera azul pixelada con margaritas_3
+  - first:
+      213: 5794811086001584077
+    second: Regadera azul pixelada con margaritas_4
+  - first:
+      213: -6854085829325526720
+    second: Regadera azul pixelada con margaritas_5
+  - first:
+      213: -4876152682993481294
+    second: Regadera azul pixelada con margaritas_6
+  - first:
+      213: 4085302197862149442
+    second: Regadera azul pixelada con margaritas_7
+  - first:
+      213: -1444317442417039514
+    second: Regadera azul pixelada con margaritas_8
+  - first:
+      213: 7033945017206800451
+    second: Regadera azul pixelada con margaritas_9
+  - first:
+      213: -1582528847618276910
+    second: Regadera azul pixelada con margaritas_10
+  - first:
+      213: 2949080980266569455
+    second: Regadera azul pixelada con margaritas_11
+  - first:
+      213: -242483550230127052
+    second: Regadera azul pixelada con margaritas_12
+  - first:
+      213: 4665467789693145336
+    second: Regadera azul pixelada con margaritas_13
+  - first:
+      213: 4815452358206547733
+    second: Regadera azul pixelada con margaritas_14
+  - first:
+      213: 8595190398768516676
+    second: Regadera azul pixelada con margaritas_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Regadera azul pixelada con margaritas_0
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1158
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ee294cf4cf2c520800000000000000
+      internalID: 2721014544415780471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regadera azul pixelada con margaritas_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1128
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a8295921e784070800000000000000
+      internalID: 8090855348855016057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regadera azul pixelada con margaritas_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1195
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff623678e135f9180800000000000000
+      internalID: -9106468530934307073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regadera azul pixelada con margaritas_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 1235
+        height: 1131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e42c8855b2adf9a0800000000000000
+      internalID: -6197618612433574680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regadera azul pixelada con margaritas_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1110
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7be910bfd4b6050800000000000000
+      internalID: 5794811086001584077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regadera azul pixelada con margaritas_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1078
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0496303b04561e0a0800000000000000
+      internalID: -6854085829325526720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regadera azul pixelada con margaritas_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1074
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b90b9348fc645cb0800000000000000
+      internalID: -4876152682993481294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regadera azul pixelada con margaritas_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1076
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d22bf34b8e1b830800000000000000
+      internalID: 4085302197862149442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regadera azul pixelada con margaritas_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 111
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667e4dd30f0c4fbe0800000000000000
+      internalID: -1444317442417039514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regadera azul pixelada con margaritas_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 111
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3408d38c9b79d9160800000000000000
+      internalID: 7033945017206800451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regadera azul pixelada con margaritas_10
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 81
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d187eec56ab90ae0800000000000000
+      internalID: -1582528847618276910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regadera azul pixelada con margaritas_11
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 63
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee46a2d68d3de820800000000000000
+      internalID: 2949080980266569455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regadera azul pixelada con margaritas_12
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 78
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e58acee7682acf0800000000000000
+      internalID: -242483550230127052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regadera azul pixelada con margaritas_13
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 31
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0dfab6c321fb040800000000000000
+      internalID: 4665467789693145336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regadera azul pixelada con margaritas_14
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 45
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517e7bb086ce3d240800000000000000
+      internalID: 4815452358206547733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regadera azul pixelada con margaritas_15
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 65
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e027fd020484770800000000000000
+      internalID: 8595190398768516676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Regadera azul pixelada con margaritas_0: 2721014544415780471
+      Regadera azul pixelada con margaritas_1: 8090855348855016057
+      Regadera azul pixelada con margaritas_10: -1582528847618276910
+      Regadera azul pixelada con margaritas_11: 2949080980266569455
+      Regadera azul pixelada con margaritas_12: -242483550230127052
+      Regadera azul pixelada con margaritas_13: 4665467789693145336
+      Regadera azul pixelada con margaritas_14: 4815452358206547733
+      Regadera azul pixelada con margaritas_15: 8595190398768516676
+      Regadera azul pixelada con margaritas_2: -9106468530934307073
+      Regadera azul pixelada con margaritas_3: -6197618612433574680
+      Regadera azul pixelada con margaritas_4: 5794811086001584077
+      Regadera azul pixelada con margaritas_5: -6854085829325526720
+      Regadera azul pixelada con margaritas_6: -4876152682993481294
+      Regadera azul pixelada con margaritas_7: 4085302197862149442
+      Regadera azul pixelada con margaritas_8: -1444317442417039514
+      Regadera azul pixelada con margaritas_9: 7033945017206800451
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

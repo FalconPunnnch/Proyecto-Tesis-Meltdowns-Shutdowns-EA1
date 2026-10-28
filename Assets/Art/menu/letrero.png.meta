@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: f87c56b1e34bd9b4bb6d8245579bc270
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1285692791715000891
+    second: letrero_0
+  - first:
+      213: -6011284426965923527
+    second: letrero_1
+  - first:
+      213: -56706570336482574
+    second: letrero_2
+  - first:
+      213: 3712171247096867109
+    second: letrero_3
+  - first:
+      213: -860109739710945534
+    second: letrero_4
+  - first:
+      213: -1921303357754383239
+    second: letrero_5
+  - first:
+      213: 87488590032885158
+    second: letrero_6
+  - first:
+      213: -1594485316448999280
+    second: letrero_7
+  - first:
+      213: -2449489348354081069
+    second: letrero_8
+  - first:
+      213: -9031225058509785537
+    second: letrero_9
+  - first:
+      213: -7563540076634534321
+    second: letrero_10
+  - first:
+      213: 1765911506345301082
+    second: letrero_11
+  - first:
+      213: 934893853438031580
+    second: letrero_12
+  - first:
+      213: -3343924288151290080
+    second: letrero_13
+  - first:
+      213: -7878930586790883639
+    second: letrero_14
+  - first:
+      213: 7399809326276467443
+    second: letrero_15
+  - first:
+      213: 1291221417366713491
+    second: letrero_16
+  - first:
+      213: -5575143578810180083
+    second: letrero_17
+  - first:
+      213: 751129127229964821
+    second: letrero_18
+  - first:
+      213: 3624996737079638061
+    second: letrero_19
+  - first:
+      213: 1338504759713511082
+    second: letrero_20
+  - first:
+      213: 262251282074154839
+    second: letrero_21
+  - first:
+      213: 8983960333344769875
+    second: letrero_22
+  - first:
+      213: -1753212983450178470
+    second: letrero_23
+  - first:
+      213: 3109724529822428430
+    second: letrero_24
+  - first:
+      213: -8135330107389046427
+    second: letrero_25
+  - first:
+      213: 8505221178236668168
+    second: letrero_26
+  - first:
+      213: 2039438361819513800
+    second: letrero_27
+  - first:
+      213: -4938099906625927641
+    second: letrero_28
+  - first:
+      213: 1678365031680934698
+    second: letrero_29
+  - first:
+      213: -2820038777368080920
+    second: letrero_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: letrero_0
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 709
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32f37c38c2b7d110800000000000000
+      internalID: 1285692791715000891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2155
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939cbdea9a0a39ca0800000000000000
+      internalID: -6011284426965923527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 635
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fac9aabca9863ff0800000000000000
+      internalID: -56706570336482574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_3
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 586
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529a0a0d418448330800000000000000
+      internalID: 3712171247096867109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 528
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207eca0bfb64014f0800000000000000
+      internalID: -860109739710945534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 534
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974e84f86c82655e0800000000000000
+      internalID: -1921303357754383239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_6
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 520
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a55fcab862d63100800000000000000
+      internalID: 87488590032885158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 512
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0982b797d004fd9e0800000000000000
+      internalID: -1594485316448999280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_8
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 500
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de70466a6aa10ed0800000000000000
+      internalID: -2449489348354081069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_9
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 480
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36fae4a8a4aaa280800000000000000
+      internalID: -9031225058509785537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_10
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 480
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e84c7af58e80790800000000000000
+      internalID: -7563540076634534321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_11
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 466
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a549c78a827c18810800000000000000
+      internalID: 1765911506345301082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_12
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 449
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6bed4a10969fc00800000000000000
+      internalID: 934893853438031580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_13
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 441
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ff0f8a39ef791d0800000000000000
+      internalID: -3343924288151290080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_14
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 455
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce8e5c206a68a290800000000000000
+      internalID: -7878930586790883639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_15
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 435
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fad45a506761b660800000000000000
+      internalID: 7399809326276467443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_16
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 425
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394f484b9075be110800000000000000
+      internalID: 1291221417366713491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_17
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 359
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e1835147c11a2b0800000000000000
+      internalID: -5575143578810180083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_18
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 413
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512cdf826fb8c6a00800000000000000
+      internalID: 751129127229964821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_19
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 317
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28f49983539e4230800000000000000
+      internalID: 3624996737079638061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_20
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 311
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6b4ecbcf2539210800000000000000
+      internalID: 1338504759713511082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 290
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757bbedc624b3a300800000000000000
+      internalID: 262251282074154839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_22
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 264
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3570739f2507dac70800000000000000
+      internalID: 8983960333344769875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_23
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 178
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c69d994165ba7e0800000000000000
+      internalID: -1753212983450178470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_24
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 226
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d626ddbf5f72b20800000000000000
+      internalID: 3109724529822428430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 5
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5611982ce50891f80800000000000000
+      internalID: -8135330107389046427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 98
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8090de8599d980670800000000000000
+      internalID: 8505221178236668168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_27
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 81
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c38e89726a8d4c10800000000000000
+      internalID: 2039438361819513800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 71
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7260c205c48587bb0800000000000000
+      internalID: -4938099906625927641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_29
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 79
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2387cc9a10ca4710800000000000000
+      internalID: 1678365031680934698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letrero_30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 49
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed06265ca53dd8d0800000000000000
+      internalID: -2820038777368080920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      letrero_0: 1285692791715000891
+      letrero_1: -6011284426965923527
+      letrero_10: -7563540076634534321
+      letrero_11: 1765911506345301082
+      letrero_12: 934893853438031580
+      letrero_13: -3343924288151290080
+      letrero_14: -7878930586790883639
+      letrero_15: 7399809326276467443
+      letrero_16: 1291221417366713491
+      letrero_17: -5575143578810180083
+      letrero_18: 751129127229964821
+      letrero_19: 3624996737079638061
+      letrero_2: -56706570336482574
+      letrero_20: 1338504759713511082
+      letrero_21: 262251282074154839
+      letrero_22: 8983960333344769875
+      letrero_23: -1753212983450178470
+      letrero_24: 3109724529822428430
+      letrero_25: -8135330107389046427
+      letrero_26: 8505221178236668168
+      letrero_27: 2039438361819513800
+      letrero_28: -4938099906625927641
+      letrero_29: 1678365031680934698
+      letrero_3: 3712171247096867109
+      letrero_30: -2820038777368080920
+      letrero_4: -860109739710945534
+      letrero_5: -1921303357754383239
+      letrero_6: 87488590032885158
+      letrero_7: -1594485316448999280
+      letrero_8: -2449489348354081069
+      letrero_9: -9031225058509785537
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

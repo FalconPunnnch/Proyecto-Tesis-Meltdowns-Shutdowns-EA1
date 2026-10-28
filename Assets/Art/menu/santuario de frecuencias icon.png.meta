@@ -1,0 +1,1809 @@
+fileFormatVersion: 2
+guid: b33c47e3f703dab458bb4f0cf5641b06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3799149024341844180
+    second: santuario de frecuencias icon_0
+  - first:
+      213: -7289783945501505074
+    second: santuario de frecuencias icon_1
+  - first:
+      213: 1371211246421831239
+    second: santuario de frecuencias icon_2
+  - first:
+      213: -4598753293878252002
+    second: santuario de frecuencias icon_3
+  - first:
+      213: -3406139436200676588
+    second: santuario de frecuencias icon_4
+  - first:
+      213: -7875925987605778330
+    second: santuario de frecuencias icon_5
+  - first:
+      213: -8647515415690137325
+    second: santuario de frecuencias icon_6
+  - first:
+      213: 2275458995889594906
+    second: santuario de frecuencias icon_7
+  - first:
+      213: -1142582860267680218
+    second: santuario de frecuencias icon_8
+  - first:
+      213: -2432901822130401976
+    second: santuario de frecuencias icon_9
+  - first:
+      213: 3198304567182004298
+    second: santuario de frecuencias icon_10
+  - first:
+      213: -2272069053719869215
+    second: santuario de frecuencias icon_11
+  - first:
+      213: 7272137510807264403
+    second: santuario de frecuencias icon_12
+  - first:
+      213: -8673610412786354933
+    second: santuario de frecuencias icon_13
+  - first:
+      213: -6362923020963062878
+    second: santuario de frecuencias icon_14
+  - first:
+      213: 6323894182939720012
+    second: santuario de frecuencias icon_15
+  - first:
+      213: -2287459029312901906
+    second: santuario de frecuencias icon_16
+  - first:
+      213: 6263187348773036840
+    second: santuario de frecuencias icon_17
+  - first:
+      213: 3841241761464298444
+    second: santuario de frecuencias icon_18
+  - first:
+      213: -4201223910806816305
+    second: santuario de frecuencias icon_19
+  - first:
+      213: -6015572296744863848
+    second: santuario de frecuencias icon_20
+  - first:
+      213: 614196774376233359
+    second: santuario de frecuencias icon_21
+  - first:
+      213: 4128815026812177698
+    second: santuario de frecuencias icon_22
+  - first:
+      213: -7142401939413595220
+    second: santuario de frecuencias icon_23
+  - first:
+      213: -5737542645174952357
+    second: santuario de frecuencias icon_24
+  - first:
+      213: -4549894675240092979
+    second: santuario de frecuencias icon_25
+  - first:
+      213: 4130957918867109089
+    second: santuario de frecuencias icon_26
+  - first:
+      213: 3325664129503885898
+    second: santuario de frecuencias icon_27
+  - first:
+      213: -7885848206530389270
+    second: santuario de frecuencias icon_28
+  - first:
+      213: -430300108569956207
+    second: santuario de frecuencias icon_29
+  - first:
+      213: -789507106178789006
+    second: santuario de frecuencias icon_30
+  - first:
+      213: -1003752863312604975
+    second: santuario de frecuencias icon_31
+  - first:
+      213: 3225740826196878700
+    second: santuario de frecuencias icon_32
+  - first:
+      213: -804955891585640424
+    second: santuario de frecuencias icon_33
+  - first:
+      213: -3453184903972535503
+    second: santuario de frecuencias icon_34
+  - first:
+      213: -4982066223717201
+    second: santuario de frecuencias icon_35
+  - first:
+      213: 3130009806223408476
+    second: santuario de frecuencias icon_36
+  - first:
+      213: -316784156450407517
+    second: santuario de frecuencias icon_37
+  - first:
+      213: 8519856409388619574
+    second: santuario de frecuencias icon_38
+  - first:
+      213: -1512843472291572435
+    second: santuario de frecuencias icon_39
+  - first:
+      213: -1961793761506344201
+    second: santuario de frecuencias icon_40
+  - first:
+      213: 4634559847176151841
+    second: santuario de frecuencias icon_41
+  - first:
+      213: -7195775176053218348
+    second: santuario de frecuencias icon_42
+  - first:
+      213: 2298563521202262926
+    second: santuario de frecuencias icon_43
+  - first:
+      213: -5629739041900219029
+    second: santuario de frecuencias icon_44
+  - first:
+      213: 1835071152689908519
+    second: santuario de frecuencias icon_45
+  - first:
+      213: 3441066885397015387
+    second: santuario de frecuencias icon_46
+  - first:
+      213: 3039661391325957076
+    second: santuario de frecuencias icon_47
+  - first:
+      213: -416767112922257295
+    second: santuario de frecuencias icon_48
+  - first:
+      213: 117867938024062211
+    second: santuario de frecuencias icon_49
+  - first:
+      213: -6250665070096721527
+    second: santuario de frecuencias icon_50
+  - first:
+      213: -2532703246626871814
+    second: santuario de frecuencias icon_51
+  - first:
+      213: 4077582649083741243
+    second: santuario de frecuencias icon_52
+  - first:
+      213: 1803635762555998716
+    second: santuario de frecuencias icon_53
+  - first:
+      213: 3011934654302493106
+    second: santuario de frecuencias icon_54
+  - first:
+      213: 263035013799986892
+    second: santuario de frecuencias icon_55
+  - first:
+      213: -3251744717462023160
+    second: santuario de frecuencias icon_56
+  - first:
+      213: 3712681395660684141
+    second: santuario de frecuencias icon_57
+  - first:
+      213: -8616901165949139843
+    second: santuario de frecuencias icon_58
+  - first:
+      213: -5702605886965540169
+    second: santuario de frecuencias icon_59
+  - first:
+      213: -2813908090357247296
+    second: santuario de frecuencias icon_60
+  - first:
+      213: -2509029344558461137
+    second: santuario de frecuencias icon_61
+  - first:
+      213: -4621103550642494288
+    second: santuario de frecuencias icon_62
+  - first:
+      213: 3414883627333149338
+    second: santuario de frecuencias icon_63
+  - first:
+      213: 4701359850123960386
+    second: santuario de frecuencias icon_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_0
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1053
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f15535716b64bc0800000000000000
+      internalID: -3799149024341844180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_1
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1060
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9890fdf1c75da90800000000000000
+      internalID: -7289783945501505074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1079
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e6ef61d55870310800000000000000
+      internalID: 1371211246421831239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_3
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1050
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1eaab49e32fd20c0800000000000000
+      internalID: -4598753293878252002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 986
+        width: 72
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4133fc1ba36fab0d0800000000000000
+      internalID: -3406139436200676588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 23
+        width: 562
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6607d7fea0713b290800000000000000
+      internalID: -7875925987605778330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_6
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1034
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3113312cb8addf780800000000000000
+      internalID: -8647515415690137325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_7
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1044
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1267fe96ed049f10800000000000000
+      internalID: 2275458995889594906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_8
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1029
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e8b4731fab420f0800000000000000
+      internalID: -1142582860267680218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1009
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d448ecea89c3ed0800000000000000
+      internalID: -2432901822130401976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_10
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1018
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40946afe09a26c20800000000000000
+      internalID: 3198304567182004298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1016
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e88edbcb3df770e0800000000000000
+      internalID: -2272069053719869215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_12
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1018
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cd5716982dbe460800000000000000
+      internalID: 7272137510807264403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_13
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1012
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b057db9c84521a780800000000000000
+      internalID: -8673610412786354933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_14
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 988
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab5752893b52b7a0800000000000000
+      internalID: -6362923020963062878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_15
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 936
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49f743014cf2c750800000000000000
+      internalID: 6323894182939720012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_16
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 801
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec6b8fd1205140e0800000000000000
+      internalID: -2287459029312901906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 918
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823665db5bf4be650800000000000000
+      internalID: 6263187348773036840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_18
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 922
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccba970c705de4530800000000000000
+      internalID: 3841241761464298444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_19
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 917
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc97b76bc1142b5c0800000000000000
+      internalID: -4201223910806816305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_20
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 933
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89777d33ed4648ca0800000000000000
+      internalID: -6015572296744863848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_21
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 921
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89d2ee46b0168800800000000000000
+      internalID: 614196774376233359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_22
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 866
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d4f68346f7c4930800000000000000
+      internalID: 4128815026812177698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_23
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 746
+        width: 143
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab0136374711ec90800000000000000
+      internalID: -7142401939413595220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_24
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 809
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e11beec572060b0800000000000000
+      internalID: -5737542645174952357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_25
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 81
+        width: 495
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca7fd436e68bd0c0800000000000000
+      internalID: -4549894675240092979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_26
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 761
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e43928275c145930800000000000000
+      internalID: 4130957918867109089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 757
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a7659d7e1272e20800000000000000
+      internalID: 3325664129503885898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 743
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeada1156d6df8290800000000000000
+      internalID: -7885848206530389270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_29
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 759
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19030e1c454470af0800000000000000
+      internalID: -430300108569956207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_30
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 750
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271119c487b1b05f0800000000000000
+      internalID: -789507106178789006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_31
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 761
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d098f3c614f112f0800000000000000
+      internalID: -1003752863312604975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_32
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 744
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65a0f2d03224cc20800000000000000
+      internalID: 3225740826196878700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 622
+        width: 164
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8181e26a1e834d4f0800000000000000
+      internalID: -804955891585640424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 746
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133c9f620a2d310d0800000000000000
+      internalID: -3453184903972535503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_35
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 719
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4ec7056dc4eeff0800000000000000
+      internalID: -4982066223717201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_36
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 745
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d7f63d557007b20800000000000000
+      internalID: 3130009806223408476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_37
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 673
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab3d44fc7e8a9bf0800000000000000
+      internalID: -316784156450407517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_38
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 708
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63791f2a34c9c3670800000000000000
+      internalID: 8519856409388619574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_39
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 680
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25da4990ec410be0800000000000000
+      internalID: -1512843472291572435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_40
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 714
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f246dac7fe46c4e0800000000000000
+      internalID: -1961793761506344201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_41
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 645
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123293540a3415040800000000000000
+      internalID: 4634559847176151841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_42
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 680
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d326cb2a98732c90800000000000000
+      internalID: -7195775176053218348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_43
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 642
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e839eee185326ef10800000000000000
+      internalID: 2298563521202262926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_44
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 644
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65b3654b262fd1b0800000000000000
+      internalID: -5629739041900219029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 495
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b06a1ad7b777910800000000000000
+      internalID: 1835071152689908519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_46
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 477
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5be278c91021cf20800000000000000
+      internalID: 3441066885397015387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 449
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db047b3eeb0f2a20800000000000000
+      internalID: 3039661391325957076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_48
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 424
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1782438d488573af0800000000000000
+      internalID: -416767112922257295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_49
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 198
+        width: 153
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30df450e340c2a100800000000000000
+      internalID: 117867938024062211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_50
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 310
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98951f67c3d2149a0800000000000000
+      internalID: -6250665070096721527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_51
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 306
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5a357e0d70adcd0800000000000000
+      internalID: -2532703246626871814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_52
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 391
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34ceecb0db769830800000000000000
+      internalID: 4077582649083741243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_53
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 371
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf157538b2dc70910800000000000000
+      internalID: 1803635762555998716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_54
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 258
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b993643c9a8cc920800000000000000
+      internalID: 3011934654302493106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_55
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 264
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6c90193fc76a300800000000000000
+      internalID: 263035013799986892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_56
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 311
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8045c6f686b7fd2d0800000000000000
+      internalID: -3251744717462023160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_57
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 293
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b7e880f08168330800000000000000
+      internalID: 3712681395660684141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_58
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 265
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74c3fa3b0e9a6880800000000000000
+      internalID: -8616901165949139843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_59
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 256
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba1e55d8264cd0b0800000000000000
+      internalID: -5702605886965540169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_60
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 258
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c298a3208df2f8d0800000000000000
+      internalID: -2813908090357247296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_61
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 242
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fcf82ca132e2dd0800000000000000
+      internalID: -2509029344558461137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_62
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 213
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b468a9edca8edfb0800000000000000
+      internalID: -4621103550642494288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_63
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 204
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a926d74f09a146f20800000000000000
+      internalID: 3414883627333149338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santuario de frecuencias icon_64
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 168
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2402ce3ffd59e3140800000000000000
+      internalID: 4701359850123960386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      santuario de frecuencias icon_0: -3799149024341844180
+      santuario de frecuencias icon_1: -7289783945501505074
+      santuario de frecuencias icon_10: 3198304567182004298
+      santuario de frecuencias icon_11: -2272069053719869215
+      santuario de frecuencias icon_12: 7272137510807264403
+      santuario de frecuencias icon_13: -8673610412786354933
+      santuario de frecuencias icon_14: -6362923020963062878
+      santuario de frecuencias icon_15: 6323894182939720012
+      santuario de frecuencias icon_16: -2287459029312901906
+      santuario de frecuencias icon_17: 6263187348773036840
+      santuario de frecuencias icon_18: 3841241761464298444
+      santuario de frecuencias icon_19: -4201223910806816305
+      santuario de frecuencias icon_2: 1371211246421831239
+      santuario de frecuencias icon_20: -6015572296744863848
+      santuario de frecuencias icon_21: 614196774376233359
+      santuario de frecuencias icon_22: 4128815026812177698
+      santuario de frecuencias icon_23: -7142401939413595220
+      santuario de frecuencias icon_24: -5737542645174952357
+      santuario de frecuencias icon_25: -4549894675240092979
+      santuario de frecuencias icon_26: 4130957918867109089
+      santuario de frecuencias icon_27: 3325664129503885898
+      santuario de frecuencias icon_28: -7885848206530389270
+      santuario de frecuencias icon_29: -430300108569956207
+      santuario de frecuencias icon_3: -4598753293878252002
+      santuario de frecuencias icon_30: -789507106178789006
+      santuario de frecuencias icon_31: -1003752863312604975
+      santuario de frecuencias icon_32: 3225740826196878700
+      santuario de frecuencias icon_33: -804955891585640424
+      santuario de frecuencias icon_34: -3453184903972535503
+      santuario de frecuencias icon_35: -4982066223717201
+      santuario de frecuencias icon_36: 3130009806223408476
+      santuario de frecuencias icon_37: -316784156450407517
+      santuario de frecuencias icon_38: 8519856409388619574
+      santuario de frecuencias icon_39: -1512843472291572435
+      santuario de frecuencias icon_4: -3406139436200676588
+      santuario de frecuencias icon_40: -1961793761506344201
+      santuario de frecuencias icon_41: 4634559847176151841
+      santuario de frecuencias icon_42: -7195775176053218348
+      santuario de frecuencias icon_43: 2298563521202262926
+      santuario de frecuencias icon_44: -5629739041900219029
+      santuario de frecuencias icon_45: 1835071152689908519
+      santuario de frecuencias icon_46: 3441066885397015387
+      santuario de frecuencias icon_47: 3039661391325957076
+      santuario de frecuencias icon_48: -416767112922257295
+      santuario de frecuencias icon_49: 117867938024062211
+      santuario de frecuencias icon_5: -7875925987605778330
+      santuario de frecuencias icon_50: -6250665070096721527
+      santuario de frecuencias icon_51: -2532703246626871814
+      santuario de frecuencias icon_52: 4077582649083741243
+      santuario de frecuencias icon_53: 1803635762555998716
+      santuario de frecuencias icon_54: 3011934654302493106
+      santuario de frecuencias icon_55: 263035013799986892
+      santuario de frecuencias icon_56: -3251744717462023160
+      santuario de frecuencias icon_57: 3712681395660684141
+      santuario de frecuencias icon_58: -8616901165949139843
+      santuario de frecuencias icon_59: -5702605886965540169
+      santuario de frecuencias icon_6: -8647515415690137325
+      santuario de frecuencias icon_60: -2813908090357247296
+      santuario de frecuencias icon_61: -2509029344558461137
+      santuario de frecuencias icon_62: -4621103550642494288
+      santuario de frecuencias icon_63: 3414883627333149338
+      santuario de frecuencias icon_64: 4701359850123960386
+      santuario de frecuencias icon_7: 2275458995889594906
+      santuario de frecuencias icon_8: -1142582860267680218
+      santuario de frecuencias icon_9: -2432901822130401976
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

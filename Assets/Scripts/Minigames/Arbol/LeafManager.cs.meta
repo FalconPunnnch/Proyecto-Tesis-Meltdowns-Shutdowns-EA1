@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a4c57c8ba85889941a654d8047b9756b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - leafPrefab: {instanceID: 0}
+  - treeSpawnPoint: {instanceID: 0}
+  - densitySlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

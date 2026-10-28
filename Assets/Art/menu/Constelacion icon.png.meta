@@ -1,0 +1,1133 @@
+fileFormatVersion: 2
+guid: c0ac7c9db62b74e428d5305e64bfa305
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2671622452846668352
+    second: Constelacion icon_0
+  - first:
+      213: 3692451452580753231
+    second: Constelacion icon_1
+  - first:
+      213: -3095973601393776559
+    second: Constelacion icon_2
+  - first:
+      213: -2546232816936816774
+    second: Constelacion icon_3
+  - first:
+      213: -1845013864472165443
+    second: Constelacion icon_4
+  - first:
+      213: 8090943299742570182
+    second: Constelacion icon_5
+  - first:
+      213: 6242675050364577465
+    second: Constelacion icon_6
+  - first:
+      213: -9175284183799204871
+    second: Constelacion icon_7
+  - first:
+      213: -256521025785303547
+    second: Constelacion icon_8
+  - first:
+      213: -2824596819772513139
+    second: Constelacion icon_9
+  - first:
+      213: -7235094151411033890
+    second: Constelacion icon_10
+  - first:
+      213: 7352389085284739565
+    second: Constelacion icon_11
+  - first:
+      213: -3175649464045009832
+    second: Constelacion icon_12
+  - first:
+      213: -6867535020334580230
+    second: Constelacion icon_13
+  - first:
+      213: 6899777677406863394
+    second: Constelacion icon_14
+  - first:
+      213: 1395564856793709993
+    second: Constelacion icon_15
+  - first:
+      213: -1434175553139914571
+    second: Constelacion icon_16
+  - first:
+      213: 4683829415536221276
+    second: Constelacion icon_17
+  - first:
+      213: -4339514473685358147
+    second: Constelacion icon_18
+  - first:
+      213: -3831296499533187128
+    second: Constelacion icon_19
+  - first:
+      213: 4743542733568371009
+    second: Constelacion icon_20
+  - first:
+      213: -6291583538004378542
+    second: Constelacion icon_21
+  - first:
+      213: -7860699089286222592
+    second: Constelacion icon_22
+  - first:
+      213: -5327425926487841359
+    second: Constelacion icon_23
+  - first:
+      213: -1348565457184015337
+    second: Constelacion icon_24
+  - first:
+      213: 8511850396626221024
+    second: Constelacion icon_25
+  - first:
+      213: -438936238359135768
+    second: Constelacion icon_26
+  - first:
+      213: -652658579042501317
+    second: Constelacion icon_27
+  - first:
+      213: 8015439730580478122
+    second: Constelacion icon_28
+  - first:
+      213: 1951421958171829239
+    second: Constelacion icon_29
+  - first:
+      213: -3225391243621296909
+    second: Constelacion icon_30
+  - first:
+      213: 6085440104067425109
+    second: Constelacion icon_31
+  - first:
+      213: -6079313354755056584
+    second: Constelacion icon_32
+  - first:
+      213: -8983752842143606343
+    second: Constelacion icon_33
+  - first:
+      213: 2025059998642288976
+    second: Constelacion icon_34
+  - first:
+      213: -6995632801786921296
+    second: Constelacion icon_35
+  - first:
+      213: -4368568732386072897
+    second: Constelacion icon_36
+  - first:
+      213: -5552905807978415491
+    second: Constelacion icon_37
+  - first:
+      213: -5384426143389691678
+    second: Constelacion icon_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Constelacion icon_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 32
+        width: 1199
+        height: 1129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a22eb4772831520800000000000000
+      internalID: 2671622452846668352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1148
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f637d58093e3330800000000000000
+      internalID: 3692451452580753231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1149
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158efe6a964e805d0800000000000000
+      internalID: -3095973601393776559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1046
+        width: 28
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fe9075eb6f9acd0800000000000000
+      internalID: -2546232816936816774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_4
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1012
+        width: 28
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db347726aa13566e0800000000000000
+      internalID: -1845013864472165443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_5
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1044
+        width: 11
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c69bfe301ec84070800000000000000
+      internalID: 8090943299742570182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_6
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1036
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6ac2912ef62a650800000000000000
+      internalID: 6242675050364577465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_7
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 998
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f37367c5a7daa080800000000000000
+      internalID: -9175284183799204871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_8
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1012
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ee5a47c77a07cf0800000000000000
+      internalID: -256521025785303547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 747
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84e2c368240dc8d0800000000000000
+      internalID: -2824596819772513139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 761
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed893a4d338c79b90800000000000000
+      internalID: -7235094151411033890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_11
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 730
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de92bde1beee80660800000000000000
+      internalID: 7352389085284739565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_12
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 656
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854007443a3dde3d0800000000000000
+      internalID: -3175649464045009832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_13
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 642
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdf666e84d91b0a0800000000000000
+      internalID: -6867535020334580230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_14
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 662
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2208103bd3fe0cf50800000000000000
+      internalID: 6899777677406863394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_15
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 658
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad353ed7da0e5310800000000000000
+      internalID: 1395564856793709993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_16
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 513
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8cb89dee8c81ce0800000000000000
+      internalID: -1434175553139914571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_17
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 503
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cdf85990e400140800000000000000
+      internalID: 4683829415536221276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_18
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 503
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db96152f392f6c3c0800000000000000
+      internalID: -4339514473685358147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_19
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 489
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7702cf12084dac0800000000000000
+      internalID: -3831296499533187128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_20
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 482
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1496a3bdbf274d140800000000000000
+      internalID: 4743542733568371009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 456
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cbd8e3b1ecfa8a0800000000000000
+      internalID: -6291583538004378542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_22
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 457
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dabd873df29e290800000000000000
+      internalID: -7860699089286222592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_23
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 438
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b56c74885e2116b0800000000000000
+      internalID: -5327425926487841359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_24
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 208
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c3f289cdee84de0800000000000000
+      internalID: -1348565457184015337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_25
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 206
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e77c2886da202670800000000000000
+      internalID: 8511850396626221024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_26
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 210
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9be8911d598e9f0800000000000000
+      internalID: -438936238359135768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_27
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 184
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d7f84fa7a41f6f0800000000000000
+      internalID: -652658579042501317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_28
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 182
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa85dc3a7ff8c3f60800000000000000
+      internalID: 8015439730580478122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_29
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 176
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3aabf8ee7d41b10800000000000000
+      internalID: 1951421958171829239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_30
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f41c46b0cb1d33d0800000000000000
+      internalID: -3225391243621296909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_31
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 170
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553ead85883d37450800000000000000
+      internalID: 6085440104067425109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_32
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 170
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c5983a6b0f1aba0800000000000000
+      internalID: -6079313354755056584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_33
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 160
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9df16536c435380800000000000000
+      internalID: -8983752842143606343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_34
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 162
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0593debe6557a1c10800000000000000
+      internalID: 2025059998642288976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_35
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 146
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be7b6ef7058aee90800000000000000
+      internalID: -6995632801786921296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_36
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 103
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6ef3132e9bf53c0800000000000000
+      internalID: -4368568732386072897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_37
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 79
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a3e34969d10f2b0800000000000000
+      internalID: -5552905807978415491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constelacion icon_38
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e05ee353fca645b0800000000000000
+      internalID: -5384426143389691678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Constelacion icon_0: 2671622452846668352
+      Constelacion icon_1: 3692451452580753231
+      Constelacion icon_10: -7235094151411033890
+      Constelacion icon_11: 7352389085284739565
+      Constelacion icon_12: -3175649464045009832
+      Constelacion icon_13: -6867535020334580230
+      Constelacion icon_14: 6899777677406863394
+      Constelacion icon_15: 1395564856793709993
+      Constelacion icon_16: -1434175553139914571
+      Constelacion icon_17: 4683829415536221276
+      Constelacion icon_18: -4339514473685358147
+      Constelacion icon_19: -3831296499533187128
+      Constelacion icon_2: -3095973601393776559
+      Constelacion icon_20: 4743542733568371009
+      Constelacion icon_21: -6291583538004378542
+      Constelacion icon_22: -7860699089286222592
+      Constelacion icon_23: -5327425926487841359
+      Constelacion icon_24: -1348565457184015337
+      Constelacion icon_25: 8511850396626221024
+      Constelacion icon_26: -438936238359135768
+      Constelacion icon_27: -652658579042501317
+      Constelacion icon_28: 8015439730580478122
+      Constelacion icon_29: 1951421958171829239
+      Constelacion icon_3: -2546232816936816774
+      Constelacion icon_30: -3225391243621296909
+      Constelacion icon_31: 6085440104067425109
+      Constelacion icon_32: -6079313354755056584
+      Constelacion icon_33: -8983752842143606343
+      Constelacion icon_34: 2025059998642288976
+      Constelacion icon_35: -6995632801786921296
+      Constelacion icon_36: -4368568732386072897
+      Constelacion icon_37: -5552905807978415491
+      Constelacion icon_38: -5384426143389691678
+      Constelacion icon_4: -1845013864472165443
+      Constelacion icon_5: 8090943299742570182
+      Constelacion icon_6: 6242675050364577465
+      Constelacion icon_7: -9175284183799204871
+      Constelacion icon_8: -256521025785303547
+      Constelacion icon_9: -2824596819772513139
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

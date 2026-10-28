@@ -1,0 +1,1757 @@
+fileFormatVersion: 2
+guid: a24d2cf1fa33bbd4a9cb6d76304ea038
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8071487077417692503
+    second: 05_panel_floral_vertical_32bits_0
+  - first:
+      213: 2385451870114569903
+    second: 05_panel_floral_vertical_32bits_1
+  - first:
+      213: -8251096377255880600
+    second: 05_panel_floral_vertical_32bits_2
+  - first:
+      213: -6635603065306718741
+    second: 05_panel_floral_vertical_32bits_3
+  - first:
+      213: 8911286141544518000
+    second: 05_panel_floral_vertical_32bits_4
+  - first:
+      213: -9107103941065700608
+    second: 05_panel_floral_vertical_32bits_5
+  - first:
+      213: 6524510955155055453
+    second: 05_panel_floral_vertical_32bits_6
+  - first:
+      213: -3680711450126691386
+    second: 05_panel_floral_vertical_32bits_7
+  - first:
+      213: -8201163862454144121
+    second: 05_panel_floral_vertical_32bits_8
+  - first:
+      213: 3212698516195953704
+    second: 05_panel_floral_vertical_32bits_9
+  - first:
+      213: -3871860240495646190
+    second: 05_panel_floral_vertical_32bits_10
+  - first:
+      213: -3466665800674601087
+    second: 05_panel_floral_vertical_32bits_11
+  - first:
+      213: 3650796835881004016
+    second: 05_panel_floral_vertical_32bits_12
+  - first:
+      213: -5040739361316807536
+    second: 05_panel_floral_vertical_32bits_13
+  - first:
+      213: -5473008858222893852
+    second: 05_panel_floral_vertical_32bits_14
+  - first:
+      213: -3693203512395753704
+    second: 05_panel_floral_vertical_32bits_15
+  - first:
+      213: -2408308647419949844
+    second: 05_panel_floral_vertical_32bits_16
+  - first:
+      213: 3691389340624162761
+    second: 05_panel_floral_vertical_32bits_17
+  - first:
+      213: -3881323682872609557
+    second: 05_panel_floral_vertical_32bits_18
+  - first:
+      213: -4242355840256412644
+    second: 05_panel_floral_vertical_32bits_19
+  - first:
+      213: -4713432338648146418
+    second: 05_panel_floral_vertical_32bits_20
+  - first:
+      213: -8153165653880601146
+    second: 05_panel_floral_vertical_32bits_21
+  - first:
+      213: -7431689510847792849
+    second: 05_panel_floral_vertical_32bits_22
+  - first:
+      213: 3514637799100010798
+    second: 05_panel_floral_vertical_32bits_23
+  - first:
+      213: -5654171303178641558
+    second: 05_panel_floral_vertical_32bits_24
+  - first:
+      213: -4035777686433236491
+    second: 05_panel_floral_vertical_32bits_25
+  - first:
+      213: -7238968603977221203
+    second: 05_panel_floral_vertical_32bits_26
+  - first:
+      213: -7899140018575462654
+    second: 05_panel_floral_vertical_32bits_27
+  - first:
+      213: 5088462988524210257
+    second: 05_panel_floral_vertical_32bits_28
+  - first:
+      213: 4753604287767057196
+    second: 05_panel_floral_vertical_32bits_29
+  - first:
+      213: -8266223689252967722
+    second: 05_panel_floral_vertical_32bits_30
+  - first:
+      213: -6364638059438726430
+    second: 05_panel_floral_vertical_32bits_31
+  - first:
+      213: -8995673244834478807
+    second: 05_panel_floral_vertical_32bits_32
+  - first:
+      213: -136740608435911205
+    second: 05_panel_floral_vertical_32bits_33
+  - first:
+      213: -2658006630208495186
+    second: 05_panel_floral_vertical_32bits_34
+  - first:
+      213: -2309089682768730146
+    second: 05_panel_floral_vertical_32bits_35
+  - first:
+      213: 3765558913016359609
+    second: 05_panel_floral_vertical_32bits_36
+  - first:
+      213: 1125646329791435567
+    second: 05_panel_floral_vertical_32bits_37
+  - first:
+      213: 8059568620208161426
+    second: 05_panel_floral_vertical_32bits_38
+  - first:
+      213: 8843145179074830789
+    second: 05_panel_floral_vertical_32bits_39
+  - first:
+      213: -1545558764626662150
+    second: 05_panel_floral_vertical_32bits_40
+  - first:
+      213: 8443072953146828834
+    second: 05_panel_floral_vertical_32bits_41
+  - first:
+      213: -5042240148497168453
+    second: 05_panel_floral_vertical_32bits_42
+  - first:
+      213: -5799558926967422278
+    second: 05_panel_floral_vertical_32bits_43
+  - first:
+      213: -1425362682661220483
+    second: 05_panel_floral_vertical_32bits_44
+  - first:
+      213: -8114923674231442831
+    second: 05_panel_floral_vertical_32bits_45
+  - first:
+      213: -6250623174818591795
+    second: 05_panel_floral_vertical_32bits_46
+  - first:
+      213: 8660729687012705960
+    second: 05_panel_floral_vertical_32bits_47
+  - first:
+      213: 5938887668984455834
+    second: 05_panel_floral_vertical_32bits_48
+  - first:
+      213: 5082099750790205518
+    second: 05_panel_floral_vertical_32bits_49
+  - first:
+      213: -5417836277694775601
+    second: 05_panel_floral_vertical_32bits_50
+  - first:
+      213: -5584153527033949779
+    second: 05_panel_floral_vertical_32bits_51
+  - first:
+      213: -8876590953599464423
+    second: 05_panel_floral_vertical_32bits_52
+  - first:
+      213: -5481334179160114757
+    second: 05_panel_floral_vertical_32bits_53
+  - first:
+      213: 9018717097039011143
+    second: 05_panel_floral_vertical_32bits_54
+  - first:
+      213: 6658009025416304234
+    second: 05_panel_floral_vertical_32bits_55
+  - first:
+      213: -5343157449592094684
+    second: 05_panel_floral_vertical_32bits_56
+  - first:
+      213: 2424312607991666686
+    second: 05_panel_floral_vertical_32bits_57
+  - first:
+      213: -7573093909461409871
+    second: 05_panel_floral_vertical_32bits_58
+  - first:
+      213: 865106526521541108
+    second: 05_panel_floral_vertical_32bits_59
+  - first:
+      213: 4207619709448518254
+    second: 05_panel_floral_vertical_32bits_60
+  - first:
+      213: 1873426515444114559
+    second: 05_panel_floral_vertical_32bits_61
+  - first:
+      213: 8531611345262347787
+    second: 05_panel_floral_vertical_32bits_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1192
+        width: 140
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2dc5584415cff80800000000000000
+      internalID: -8071487077417692503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1185
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae58f256d3da1120800000000000000
+      internalID: 2385451870114569903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1183
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8689622af873e7d80800000000000000
+      internalID: -8251096377255880600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1156
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed56e54b2a99e3a0800000000000000
+      internalID: -6635603065306718741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1154
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0715f9e188f3bab70800000000000000
+      internalID: 8911286141544518000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1177
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b083497311d9180800000000000000
+      internalID: -9107103941065700608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5369273528bb8a50800000000000000
+      internalID: 6524510955155055453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1215
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c35c76ff6c7becc0800000000000000
+      internalID: -3680711450126691386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1177
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78376a13bec9f2e80800000000000000
+      internalID: -8201163862454144121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_9
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1173
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cc844674cc59c20800000000000000
+      internalID: 3212698516195953704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_10
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1217
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a6c4110a3644ac0800000000000000
+      internalID: -3871860240495646190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1086
+        width: 88
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1879bcb42dde3efc0800000000000000
+      internalID: -3466665800674601087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_12
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1171
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbaec5216c3aa230800000000000000
+      internalID: 3650796835881004016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_13
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1229
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cd1630242bb0ab0800000000000000
+      internalID: -5040739361316807536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_14
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1189
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4ee01d077fb04b0800000000000000
+      internalID: -5473008858222893852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_15
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1175
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8171d6019fa1fbcc0800000000000000
+      internalID: -3693203512395753704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_16
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1241
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec48018b08f39ed0800000000000000
+      internalID: -2408308647419949844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1095
+        width: 146
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf01972c037a3330800000000000000
+      internalID: 3691389340624162761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_18
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1199
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be43110bca4c22ac0800000000000000
+      internalID: -3881323682872609557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_19
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1208
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1476ba17df1025c0800000000000000
+      internalID: -4242355840256412644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_20
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1173
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ed906c246869eb0800000000000000
+      internalID: -4713432338648146418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_21
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1160
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5088df8032ade80800000000000000
+      internalID: -8153165653880601146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_22
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1205
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29bbe0c3c55dd890800000000000000
+      internalID: -7431689510847792849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_23
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1175
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e215489f47086c030800000000000000
+      internalID: 3514637799100010798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1171
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f54d628295881b0800000000000000
+      internalID: -5654171303178641558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1183
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9f2bf93990ef7c0800000000000000
+      internalID: -4035777686433236491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1148
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab7bbb88640a8b90800000000000000
+      internalID: -7238968603977221203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1175
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20facb9210e906290800000000000000
+      internalID: -7899140018575462654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1174
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15845b3d02add9640800000000000000
+      internalID: 5088462988524210257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_29
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1177
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23112ff9e138f140800000000000000
+      internalID: 4753604287767057196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1138
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da6828d959784d80800000000000000
+      internalID: -8266223689252967722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1096
+        width: 136
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2293ff7634ca7a0800000000000000
+      internalID: -6364638059438726430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_32
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1166
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925c72e48d2f82380800000000000000
+      internalID: -8995673244834478807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_33
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1158
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd58ecf14233a1ef0800000000000000
+      internalID: -136740608435911205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_34
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1138
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea12ac37d0ddc1bd0800000000000000
+      internalID: -2658006630208495186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 1158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7ec08ea2774ffd0800000000000000
+      internalID: -2309089682768730146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_36
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1132
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba652f61e3f14430800000000000000
+      internalID: 3765558913016359609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_37
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1140
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23d0fd7f591f9f00800000000000000
+      internalID: 1125646329791435567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_38
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1123
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292846a65f659df60800000000000000
+      internalID: 8059568620208161426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_39
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1a6f7ffa929ba70800000000000000
+      internalID: 8843145179074830789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1128
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcafe60e721d8ae0800000000000000
+      internalID: -1545558764626662150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_41
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1135
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22866091e12db2570800000000000000
+      internalID: 8443072953146828834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_42
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb70d94cc4d560ab0800000000000000
+      internalID: -5042240148497168453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_43
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1124
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2492022e3d38fa0800000000000000
+      internalID: -5799558926967422278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_44
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1126
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f41e72138183ce0800000000000000
+      internalID: -1425362682661220483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_45
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1116
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172f60ab9eff16f80800000000000000
+      internalID: -8114923674231442831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_46
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 90
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb0d18f6535149a0800000000000000
+      internalID: -6250623174818591795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_47
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6821a83c7113870800000000000000
+      internalID: 8660729687012705960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_48
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 66
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9224ce8eda2b6250800000000000000
+      internalID: 5938887668984455834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_49
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 69
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4093f61cce378640800000000000000
+      internalID: 5082099750790205518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_50
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 79
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce37c04c9affc4b0800000000000000
+      internalID: -5417836277694775601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_51
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 87
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da195e904f91182b0800000000000000
+      internalID: -5584153527033949779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_52
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 79
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c0242de8300d480800000000000000
+      internalID: -8876590953599464423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_53
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 77
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb934fbfa936ee3b0800000000000000
+      internalID: -5481334179160114757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_54
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d90c2aa6be82d70800000000000000
+      internalID: 9018717097039011143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_55
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 86
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a669847deeff56c50800000000000000
+      internalID: 6658009025416304234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_56
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 82
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420c41edb9a49d5b0800000000000000
+      internalID: -5343157449592094684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_57
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 79
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef718dfe873e4a120800000000000000
+      internalID: 2424312607991666686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_58
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 68
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfd0eb9637f6e690800000000000000
+      internalID: -7573093909461409871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_59
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 71
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f140366dc9710c00800000000000000
+      internalID: 865106526521541108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_60
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 67
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a7c9335d7746a30800000000000000
+      internalID: 4207619709448518254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_61
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7428dd6d7fbff910800000000000000
+      internalID: 1873426515444114559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_panel_floral_vertical_32bits_62
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 39
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b060e0ce05f566670800000000000000
+      internalID: 8531611345262347787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      05_panel_floral_vertical_32bits_0: -8071487077417692503
+      05_panel_floral_vertical_32bits_1: 2385451870114569903
+      05_panel_floral_vertical_32bits_10: -3871860240495646190
+      05_panel_floral_vertical_32bits_11: -3466665800674601087
+      05_panel_floral_vertical_32bits_12: 3650796835881004016
+      05_panel_floral_vertical_32bits_13: -5040739361316807536
+      05_panel_floral_vertical_32bits_14: -5473008858222893852
+      05_panel_floral_vertical_32bits_15: -3693203512395753704
+      05_panel_floral_vertical_32bits_16: -2408308647419949844
+      05_panel_floral_vertical_32bits_17: 3691389340624162761
+      05_panel_floral_vertical_32bits_18: -3881323682872609557
+      05_panel_floral_vertical_32bits_19: -4242355840256412644
+      05_panel_floral_vertical_32bits_2: -8251096377255880600
+      05_panel_floral_vertical_32bits_20: -4713432338648146418
+      05_panel_floral_vertical_32bits_21: -8153165653880601146
+      05_panel_floral_vertical_32bits_22: -7431689510847792849
+      05_panel_floral_vertical_32bits_23: 3514637799100010798
+      05_panel_floral_vertical_32bits_24: -5654171303178641558
+      05_panel_floral_vertical_32bits_25: -4035777686433236491
+      05_panel_floral_vertical_32bits_26: -7238968603977221203
+      05_panel_floral_vertical_32bits_27: -7899140018575462654
+      05_panel_floral_vertical_32bits_28: 5088462988524210257
+      05_panel_floral_vertical_32bits_29: 4753604287767057196
+      05_panel_floral_vertical_32bits_3: -6635603065306718741
+      05_panel_floral_vertical_32bits_30: -8266223689252967722
+      05_panel_floral_vertical_32bits_31: -6364638059438726430
+      05_panel_floral_vertical_32bits_32: -8995673244834478807
+      05_panel_floral_vertical_32bits_33: -136740608435911205
+      05_panel_floral_vertical_32bits_34: -2658006630208495186
+      05_panel_floral_vertical_32bits_35: -2309089682768730146
+      05_panel_floral_vertical_32bits_36: 3765558913016359609
+      05_panel_floral_vertical_32bits_37: 1125646329791435567
+      05_panel_floral_vertical_32bits_38: 8059568620208161426
+      05_panel_floral_vertical_32bits_39: 8843145179074830789
+      05_panel_floral_vertical_32bits_4: 8911286141544518000
+      05_panel_floral_vertical_32bits_40: -1545558764626662150
+      05_panel_floral_vertical_32bits_41: 8443072953146828834
+      05_panel_floral_vertical_32bits_42: -5042240148497168453
+      05_panel_floral_vertical_32bits_43: -5799558926967422278
+      05_panel_floral_vertical_32bits_44: -1425362682661220483
+      05_panel_floral_vertical_32bits_45: -8114923674231442831
+      05_panel_floral_vertical_32bits_46: -6250623174818591795
+      05_panel_floral_vertical_32bits_47: 8660729687012705960
+      05_panel_floral_vertical_32bits_48: 5938887668984455834
+      05_panel_floral_vertical_32bits_49: 5082099750790205518
+      05_panel_floral_vertical_32bits_5: -9107103941065700608
+      05_panel_floral_vertical_32bits_50: -5417836277694775601
+      05_panel_floral_vertical_32bits_51: -5584153527033949779
+      05_panel_floral_vertical_32bits_52: -8876590953599464423
+      05_panel_floral_vertical_32bits_53: -5481334179160114757
+      05_panel_floral_vertical_32bits_54: 9018717097039011143
+      05_panel_floral_vertical_32bits_55: 6658009025416304234
+      05_panel_floral_vertical_32bits_56: -5343157449592094684
+      05_panel_floral_vertical_32bits_57: 2424312607991666686
+      05_panel_floral_vertical_32bits_58: -7573093909461409871
+      05_panel_floral_vertical_32bits_59: 865106526521541108
+      05_panel_floral_vertical_32bits_6: 6524510955155055453
+      05_panel_floral_vertical_32bits_60: 4207619709448518254
+      05_panel_floral_vertical_32bits_61: 1873426515444114559
+      05_panel_floral_vertical_32bits_62: 8531611345262347787
+      05_panel_floral_vertical_32bits_7: -3680711450126691386
+      05_panel_floral_vertical_32bits_8: -8201163862454144121
+      05_panel_floral_vertical_32bits_9: 3212698516195953704
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

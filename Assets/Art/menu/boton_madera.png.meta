@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: 5a94b81a34a63984c996645b9de6d399
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6847286782584760618
+    second: boton_madera_0
+  - first:
+      213: 1140496514970172402
+    second: boton_madera_1
+  - first:
+      213: 9142660172799783973
+    second: boton_madera_2
+  - first:
+      213: -5397016884176122959
+    second: boton_madera_3
+  - first:
+      213: 1007734201556982128
+    second: boton_madera_4
+  - first:
+      213: -4316329729370563908
+    second: boton_madera_5
+  - first:
+      213: 7614585694221768486
+    second: boton_madera_6
+  - first:
+      213: -608817522027129412
+    second: boton_madera_7
+  - first:
+      213: 2545205594382820762
+    second: boton_madera_8
+  - first:
+      213: -964742666699220275
+    second: boton_madera_9
+  - first:
+      213: -4712041147060469413
+    second: boton_madera_10
+  - first:
+      213: -4359518311245906857
+    second: boton_madera_11
+  - first:
+      213: -2674476325766340328
+    second: boton_madera_12
+  - first:
+      213: -7951855382832620192
+    second: boton_madera_13
+  - first:
+      213: 1638213184118793502
+    second: boton_madera_14
+  - first:
+      213: -3510916985033670491
+    second: boton_madera_15
+  - first:
+      213: -2875458915587731533
+    second: boton_madera_16
+  - first:
+      213: -3270869370070673572
+    second: boton_madera_17
+  - first:
+      213: 1048019860965851893
+    second: boton_madera_18
+  - first:
+      213: 929987922859260122
+    second: boton_madera_19
+  - first:
+      213: 5466992381612436050
+    second: boton_madera_20
+  - first:
+      213: -4389603651507785738
+    second: boton_madera_21
+  - first:
+      213: -3674694543422910631
+    second: boton_madera_22
+  - first:
+      213: -1215010911625695776
+    second: boton_madera_23
+  - first:
+      213: -7255619647759504422
+    second: boton_madera_24
+  - first:
+      213: -5757436248081645985
+    second: boton_madera_25
+  - first:
+      213: -7323794232339059108
+    second: boton_madera_26
+  - first:
+      213: -6959057942401591605
+    second: boton_madera_27
+  - first:
+      213: 6542118504738816079
+    second: boton_madera_28
+  - first:
+      213: 5822295402147694010
+    second: boton_madera_29
+  - first:
+      213: -4069488147332857681
+    second: boton_madera_30
+  - first:
+      213: 5977833914416133399
+    second: boton_madera_31
+  - first:
+      213: -1960885287122970559
+    second: boton_madera_32
+  - first:
+      213: 839438764289748114
+    second: boton_madera_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boton_madera_0
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 697
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29213fdc03760f50800000000000000
+      internalID: 6847286782584760618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_1
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 585
+        width: 665
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb3e5aa98bd3df00800000000000000
+      internalID: 1140496514970172402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2149
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524b7ddbcf041ee70800000000000000
+      internalID: 9142660172799783973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_3
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 668
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb85eb0db1f915b0800000000000000
+      internalID: -5397016884176122959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_4
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 610
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079d0d7cae03cfd00800000000000000
+      internalID: 1007734201556982128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_5
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 606
+        width: 110
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbad863eaf05914c0800000000000000
+      internalID: -4316329729370563908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_6
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 628
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6271cd758517ca960800000000000000
+      internalID: 7614585694221768486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_7
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 596
+        width: 118
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb51a8a70bb0d87f0800000000000000
+      internalID: -608817522027129412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_8
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 610
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a956685c003625320800000000000000
+      internalID: 2545205594382820762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_9
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 635
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcadab3f7ab8c92f0800000000000000
+      internalID: -964742666699220275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 608
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51cf6eca877b9eb0800000000000000
+      internalID: -4712041147060469413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 612
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c70629131ef73c0800000000000000
+      internalID: -4359518311245906857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_12
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 608
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8116182a3f952ead0800000000000000
+      internalID: -2674476325766340328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 612
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ddbf8f8a555a190800000000000000
+      internalID: -7951855382832620192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_14
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 588
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1523c9163a1cb610800000000000000
+      internalID: 1638213184118793502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_15
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 616
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0ce2f8a97b64fc0800000000000000
+      internalID: -3510916985033670491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_16
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 612
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfc922e9515818d0800000000000000
+      internalID: -2875458915587731533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_17
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 596
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c575b3243a98b92d0800000000000000
+      internalID: -3270869370070673572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_18
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 612
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f28c6ac2805b8e00800000000000000
+      internalID: 1048019860965851893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_19
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 610
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8fd6ba61bf7ec00800000000000000
+      internalID: 929987922859260122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_20
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 614
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aa6cf0b98aedb40800000000000000
+      internalID: 5466992381612436050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_21
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 594
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffee1f6cbef413c0800000000000000
+      internalID: -4389603651507785738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_22
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 610
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f063938ccd00dc0800000000000000
+      internalID: -3674694543422910631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_23
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 609
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eda356630a632fe0800000000000000
+      internalID: -1215010911625695776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_24
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 612
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb23fd4f5cde4b90800000000000000
+      internalID: -7255619647759504422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_25
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 608
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5eb2209c3a7910b0800000000000000
+      internalID: -5757436248081645985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_26
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 604
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e2065e2f7ac5a90800000000000000
+      internalID: -7323794232339059108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_27
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 596
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6dacb0ca57c6f90800000000000000
+      internalID: -6959057942401591605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_28
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 594
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4087715e164aca50800000000000000
+      internalID: 6542118504738816079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_29
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 156
+        width: 39
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5476602d2fcc050800000000000000
+      internalID: 5822295402147694010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_30
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 143
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0009057164687c0800000000000000
+      internalID: -4069488147332857681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_31
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 155
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7157e03f54885f250800000000000000
+      internalID: 5977833914416133399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_32
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 154
+        width: 51
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148deb7783989c4e0800000000000000
+      internalID: -1960885287122970559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_madera_33
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 116
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cee2ccb1946ab00800000000000000
+      internalID: 839438764289748114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boton_madera_0: 6847286782584760618
+      boton_madera_1: 1140496514970172402
+      boton_madera_10: -4712041147060469413
+      boton_madera_11: -4359518311245906857
+      boton_madera_12: -2674476325766340328
+      boton_madera_13: -7951855382832620192
+      boton_madera_14: 1638213184118793502
+      boton_madera_15: -3510916985033670491
+      boton_madera_16: -2875458915587731533
+      boton_madera_17: -3270869370070673572
+      boton_madera_18: 1048019860965851893
+      boton_madera_19: 929987922859260122
+      boton_madera_2: 9142660172799783973
+      boton_madera_20: 5466992381612436050
+      boton_madera_21: -4389603651507785738
+      boton_madera_22: -3674694543422910631
+      boton_madera_23: -1215010911625695776
+      boton_madera_24: -7255619647759504422
+      boton_madera_25: -5757436248081645985
+      boton_madera_26: -7323794232339059108
+      boton_madera_27: -6959057942401591605
+      boton_madera_28: 6542118504738816079
+      boton_madera_29: 5822295402147694010
+      boton_madera_3: -5397016884176122959
+      boton_madera_30: -4069488147332857681
+      boton_madera_31: 5977833914416133399
+      boton_madera_32: -1960885287122970559
+      boton_madera_33: 839438764289748114
+      boton_madera_4: 1007734201556982128
+      boton_madera_5: -4316329729370563908
+      boton_madera_6: 7614585694221768486
+      boton_madera_7: -608817522027129412
+      boton_madera_8: 2545205594382820762
+      boton_madera_9: -964742666699220275
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
